@@ -1,5 +1,5 @@
 ## Olá! 👋
-Desenvolvedor Front-end
+Desenvolvedor Full Stack Pleno
  <div>
   <a href="https://github.com/Pedro62669">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro62669&layout=compact&langs_count=7&theme=dark"/>
